@@ -42,7 +42,7 @@ export const getToken = async () => {
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
         Authorization:
-          'Basic Nm02YjBmOTNpc3VjZjkxaXUzaDNlaW11MzM6MWRtM3M1cWdwNG5ucXE4am40MWIxdGhjcjZ1NjVyYjNwMnFzMzg5Nm8zcG52OWFybHJraQ==',
+          '',
       },
     })
 
