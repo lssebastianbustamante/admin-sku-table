@@ -1,0 +1,10 @@
+{
+  "admin.app.catalog-normalization": {
+    "component": "Main",
+    "path": "/admin/app/catalog-normalization/main"
+  },
+  "admin.app.edit-sku": {
+    "component": "EditSkuForm",
+    "path": "/admin/app/catalog-normalization/sku/:sku"
+  }
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "section": "storeSetup",
+    "titleId": "admin/main-title",
+    "path": "/admin/graphql-ide"
+  },
+  {
+    "adminVersion": 4,
+    "section": "storeSettings",
+    "titleId": "admin/main-subsection-title",
+    "subSection": "catalog-normalization",
+    "subSectionItems": [
+      {
+        "labelId": "admin/main-title",
+        "path": "/admin/catalog-normalization/main"
+      }
+    ]
+  }
+]

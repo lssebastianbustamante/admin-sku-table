@@ -1,0 +1,21 @@
+{
+  "vendor": "mdlzcaricamqa",
+  "name": "catalog-normalization",
+  "version": "0.0.8",
+  "title": "Catalog Normalization",
+  "description": "Admin app for ERP catalog normalization",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "admin": "0.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
